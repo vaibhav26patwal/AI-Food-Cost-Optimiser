@@ -11,6 +11,7 @@ An AI-powered web app that helps you find the nutritional details of your favori
 - Python
 - Pandas
 - Streamlit
+- Matplotlib
 - FoodData Central API (demo mode)
 
 ### 🚀 Live Demo
