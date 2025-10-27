@@ -14,4 +14,4 @@ An AI-powered web app that helps you find the nutritional details of your favori
 - FoodData Central API (demo mode)
 
 ### 🚀 Live Demo
-👉 [Open App](https://ai-food-cost-optimiser-rkmqrxomev8iaceax9fwmb.streamlit.app/)
+👉 [Open App](https://ai-food-cost-optimiser-iux9xhvknelvahybyxr5np.streamlit.app/)
